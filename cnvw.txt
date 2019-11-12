@@ -1,0 +1,7 @@
+Which command is used to make scripts interactive? 
+a. read 
+b. ls 
+c. chmod 
+d. input 
+
+
