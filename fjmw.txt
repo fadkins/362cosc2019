@@ -1,0 +1,6 @@
+What is the correct syntax for creating an alias 'l' with the function of ls?
+
+a. alias "ls"=l
+b. alias l="ls"
+c. "ls"=new_alias l
+d. create_alias l="ls"
