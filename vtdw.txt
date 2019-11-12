@@ -1,0 +1,5 @@
+What does the regular expression quantifier * represent?
+A. Matches zero or more times 
+B. Matches one or more times
+C. Matches exactly zero characters
+D. Negates previous string sequence
