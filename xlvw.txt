@@ -1,0 +1,5 @@
+What command will redirect standard error to a file?
+A.) python test.py > error.txt
+B.) python test.py 1> error.txt
+C.) python test.py 2> error.txt
+D.) python test.py 3> error.txt
