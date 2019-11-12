@@ -1,0 +1,9 @@
+Which of the following is the correct way to send errors to /dev/null
+
+a. ls -l 0> /dev/null
+
+b. ls -l 1> /dev/null
+
+c. ls -l 2> /dev/null
+
+d. ls -l > /dev/null
