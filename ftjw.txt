@@ -1,0 +1,7 @@
+Alaina Schwarz
+
+Question: What does "ls -a" mean?
+a. allows you to see files
+b. allows to see hidden files
+c. allows you to see no files
+d. shows permissions of files

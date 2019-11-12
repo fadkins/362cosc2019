@@ -1,0 +1,6 @@
+#This is a sample question
+Which one of the following command can delete a directory which is not empty?
+a) rm -r
+b) rmdir
+c) rm *
+d) del *
