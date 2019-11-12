@@ -1,0 +1,6 @@
+What is the difference between "ls" and "ls -a"?
+
+a) Nothing
+b) "ls" shows files in a directory and "ls -a" compares files in two different directories
+**c) "ls" shows all visible files in a directory, and "ls -a" shows all visible and invisible files in a directory
+d) "ls -a" displays the files at the root directory
