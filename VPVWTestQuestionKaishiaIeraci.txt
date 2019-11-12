@@ -1,0 +1,18 @@
+After running the history command:
+1523  rm 1.pl
+1524  cp homeworkFormKaishiaIeraci.pl 1.pl
+1525  nano 1.pl
+1526  rm 1
+1527  rm 1.pl
+1528  cp homeworkFormKaishiaIeraci.pl 1.pl
+1529  nano 1.pl
+1530  perl 1.pl
+1531  rm 1.pl
+1532  ls
+
+What will the command !1528 do?
+	a.	Remove command #1528 from the history
+	b.	Copy cp homeworkFormKaishiaIeraci.pl to terminal
+	c.	Run cp homeworkFormKaishiaIeraci.pl 1.pl
+	d.	Print 1528 to the terminal
+
