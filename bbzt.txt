@@ -1,0 +1,9 @@
+Eric Ritchey COSC362 Test Question
+
+Which of the following is the proper command to allow the file 'tables.txt' to be 
+readable by everyone, executable by nobody, and writeable by only the author?
+
+a. chmod 740 tables.txt
+b. chmod 470 tables.txt
+c. chmod 570 tables.txt
+d. chmod 057 tables.txt
