@@ -1,4 +1,4 @@
-If you want to preview a file, what command have we talked about that could you use?
+If you want to preview a file, what command have we NOT talked about that could you use?
 
 a) cat
 b) nl
