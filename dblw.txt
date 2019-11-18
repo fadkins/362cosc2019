@@ -1,0 +1,7 @@
+How do you write a cron script to run every 15 minutes?
+A: */15 * * * *
+B: 0,15 * * * *
+C: 15 * * * *
+D: 0-15 * * * *
+
+Answer is A.
