@@ -1,0 +1,6 @@
+Question: $! is a command that:
+
+a) reuses the last correctly executed command before the variable.
+b) reuses the lat correctly executed line after the command.
+c) Nothing. This command should be $$.
+d) Nothing. This command is malformed.
