@@ -1,0 +1,8 @@
+	
+Which command sends the word count of the file infile to the newfile.
+
+A.	wc infile >newfile
+B.	wc <infile >newfile
+C.	wc infile - newfile
+D.	wc infile | newfile
+E.	None of the above
