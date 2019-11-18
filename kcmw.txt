@@ -1,0 +1,6 @@
+Which command will not run a bash script file?
+
+a. ./filename
+b. bash filename.sh
+c. ./filename.sh
+d. sh filename.sh
