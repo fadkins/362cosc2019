@@ -1,0 +1,5 @@
+How do you stop a process with ID 1234?
+a. end -k 1234
+b. stop 1234
+c. kill -9 1234
+d. finish 1234
