@@ -1,0 +1,5 @@
+In what language are system calls in Unix written in?
+A. C
+B. C++
+C. Assembly Language
+D. Java
