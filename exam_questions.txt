@@ -1,28 +1,33 @@
+==> bbzt.txt <==
 Eric Ritchey COSC362 Test Question
 
-Which of the following is the proper command to allow
-the file 'tables.txt' to be 
+Which of the following is the proper command to allow the file 'tables.txt' to be 
 readable by everyone, executable by nobody, and writeable by only the author?
 
 a. chmod 740 tables.txt
 b. chmod 470 tables.txt
 c. chmod 570 tables.txt
 d. chmod 057 tables.txt
-e.  ANSWER: chmod 644 tables.txt
 
-For each group (Owner, Group, Public) each have 3 attributes. Readable, Writable, Executable. Your question suggests it is readable by everyone, executable by nobody, and only writable by the owner. Therefore, the answer would be the following:
+## ABOVE IS WRONG
+
+This question is wrong. For each group (Owner, Group, Public) each have 3 attributes. Readable, Writable, Executable. Your question suggests it is readable by everyone, executable by nobody, and only writable by the owner. Therefore, the answer would be the following:
 
 OWNER       GROUP         PUBLIC
 RWE         RWE           RWE
 420         400           400
  6           4             4 
  
+ ## ANSWER: chmod 644 tables.txt
+
+==> cbzw.txt <==
 How do you stop a process with ID 1234?
 a. end -k 1234
 b. stop 1234
 c. kill -9 1234
 d. finish 1234
 
+==> cnvw.txt <==
 Which command is used to make scripts interactive? 
 
 a. read 
@@ -31,6 +36,8 @@ c. chmod
 d. input 
 
 ***a***
+
+==> cstoffickSampleQuestion.txt <==
 If you want to preview a file, what command have we NOT talked about that could you use?
 
 a) cat
@@ -40,6 +47,8 @@ d) tail
 
 (Correct answer b)
 
+
+==> dblw.txt <==
 How do you write a cron script to run every 15 minutes?
 A: */15 * * * *
 B: 0,15 * * * *
@@ -47,12 +56,16 @@ C: 15 * * * *
 D: 0-15 * * * *
 
 Answer is A.
+
+==> fjmw.txt <==
 What is the correct syntax for creating an alias 'l' with the function of ls?
 
 a. alias "ls"=l
 b. alias l="ls"
 c. "ls"=new_alias l
 d. create_alias l="ls"
+
+==> ftjw.txt <==
 Alaina Schwarz
 
 Question: What does "ls -a" mean?
@@ -60,12 +73,16 @@ a. allows you to see files
 b. allows to see hidden files
 c. allows you to see no files
 d. shows permissions of files
+
+==> kcmw.txt <==
 Which command will not run a bash script file?
 
 a. ./filename
 b. bash filename.sh
 c. ./filename.sh
 d. sh filename.sh
+
+==> lzlw.txt <==
 Which of the following is the correct way to send errors to /dev/null
 
 a. ls -l 0> /dev/null
@@ -75,24 +92,47 @@ b. ls -l 1> /dev/null
 c. ls -l 2> /dev/null
 
 d. ls -l > /dev/null
+
+==> ncxq.txt <==
 Question: $! is a command that:
 
 a) reuses the last correctly executed command before the variable.
 b) reuses the lat correctly executed line after the command.
 c) Nothing. This command should be $$.
 d) Nothing. This command is malformed.
+
+==> nlhw.txt <==
 In what language are system calls in Unix written in?
 A. C
 B. C++
 C. Assembly Language
 D. Java
+
+==> nqdw_questions.txt <==
+Which flag can be used with the ssh command to log in using a private key?
+
+A. -I
+
+B. -i
+
+C. -K
+
+D. -p
+
+Answer: A
+
+==> pfyxQuestion.txt <==
 #This is a sample question
 Which one of the following command can delete a directory which is not empty?
 a) rm -r
 b) rmdir
 c) rm *
 d) del *
+
+==> sample.txt <==
 hello world
+
+==> slkw.txt <==
 	
 Which command sends the word count of the file infile to the newfile.
 
@@ -101,6 +141,8 @@ B.	wc <infile >newfile
 C.	wc infile - newfile
 D.	wc infile | newfile
 E.	None of the above
+
+==> VPVWTestQuestionKaishiaIeraci.txt <==
 After running the history command:
 1523  rm 1.pl
 1524  cp homeworkFormKaishiaIeraci.pl 1.pl
@@ -119,19 +161,15 @@ What will the command !1528 do?
 	c.	Run cp homeworkFormKaishiaIeraci.pl 1.pl
 	d.	Print 1528 to the terminal
 
-vpvw
 
-hi
-this is a presentation.
-
-Have a good week!
-
-no
+==> vtdw.txt <==
 What does the regular expression quantifier * represent?
 A. Matches zero or more times 
 B. Matches one or more times
 C. Matches exactly zero characters
 D. Negates previous string sequence
+
+==> yjvx.txt <==
 What is the difference between "ls" and "ls -a"?
 
 a) Nothing

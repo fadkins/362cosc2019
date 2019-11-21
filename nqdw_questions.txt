@@ -1,0 +1,11 @@
+Which flag can be used with the ssh command to log in using a private key?
+
+A. -I
+
+B. -i
+
+C. -K
+
+D. -p
+
+Answer: A
