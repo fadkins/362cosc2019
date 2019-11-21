@@ -8,18 +8,15 @@ a. chmod 740 tables.txt
 b. chmod 470 tables.txt
 c. chmod 570 tables.txt
 d. chmod 057 tables.txt
+e.  ANSWER: chmod 644 tables.txt
 
-## ABOVE IS WRONG
-
-This question is wrong. For each group (Owner, Group, Public) each have 3 attributes. Readable, Writable, Executable. Your question suggests it is readable by everyone, executable by nobody, and only writable by the owner. Therefore, the answer would be the following:
+For each group (Owner, Group, Public) each have 3 attributes. Readable, Writable, Executable. Your question suggests it is readable by everyone, executable by nobody, and only writable by the owner. Therefore, the answer would be the following:
 
 OWNER       GROUP         PUBLIC
 RWE         RWE           RWE
 420         400           400
  6           4             4 
  
- ## ANSWER: chmod 644 tables.txt
-
 ==> cbzw.txt <==
 How do you stop a process with ID 1234?
 a. end -k 1234
