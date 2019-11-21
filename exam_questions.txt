@@ -1,0 +1,140 @@
+Eric Ritchey COSC362 Test Question
+
+Which of the following is the proper command to allow
+the file 'tables.txt' to be 
+readable by everyone, executable by nobody, and writeable by only the author?
+
+a. chmod 740 tables.txt
+b. chmod 470 tables.txt
+c. chmod 570 tables.txt
+d. chmod 057 tables.txt
+e.  ANSWER: chmod 644 tables.txt
+
+For each group (Owner, Group, Public) each have 3 attributes. Readable, Writable, Executable. Your question suggests it is readable by everyone, executable by nobody, and only writable by the owner. Therefore, the answer would be the following:
+
+OWNER       GROUP         PUBLIC
+RWE         RWE           RWE
+420         400           400
+ 6           4             4 
+ 
+How do you stop a process with ID 1234?
+a. end -k 1234
+b. stop 1234
+c. kill -9 1234
+d. finish 1234
+
+Which command is used to make scripts interactive? 
+
+a. read 
+b. ls 
+c. chmod 
+d. input 
+
+***a***
+If you want to preview a file, what command have we NOT talked about that could you use?
+
+a) cat
+b) nl
+c) head
+d) tail
+
+(Correct answer b)
+
+How do you write a cron script to run every 15 minutes?
+A: */15 * * * *
+B: 0,15 * * * *
+C: 15 * * * *
+D: 0-15 * * * *
+
+Answer is A.
+What is the correct syntax for creating an alias 'l' with the function of ls?
+
+a. alias "ls"=l
+b. alias l="ls"
+c. "ls"=new_alias l
+d. create_alias l="ls"
+Alaina Schwarz
+
+Question: What does "ls -a" mean?
+a. allows you to see files
+b. allows to see hidden files
+c. allows you to see no files
+d. shows permissions of files
+Which command will not run a bash script file?
+
+a. ./filename
+b. bash filename.sh
+c. ./filename.sh
+d. sh filename.sh
+Which of the following is the correct way to send errors to /dev/null
+
+a. ls -l 0> /dev/null
+
+b. ls -l 1> /dev/null
+
+c. ls -l 2> /dev/null
+
+d. ls -l > /dev/null
+Question: $! is a command that:
+
+a) reuses the last correctly executed command before the variable.
+b) reuses the lat correctly executed line after the command.
+c) Nothing. This command should be $$.
+d) Nothing. This command is malformed.
+In what language are system calls in Unix written in?
+A. C
+B. C++
+C. Assembly Language
+D. Java
+#This is a sample question
+Which one of the following command can delete a directory which is not empty?
+a) rm -r
+b) rmdir
+c) rm *
+d) del *
+hello world
+	
+Which command sends the word count of the file infile to the newfile.
+
+A.	wc infile >newfile
+B.	wc <infile >newfile
+C.	wc infile - newfile
+D.	wc infile | newfile
+E.	None of the above
+After running the history command:
+1523  rm 1.pl
+1524  cp homeworkFormKaishiaIeraci.pl 1.pl
+1525  nano 1.pl
+1526  rm 1
+1527  rm 1.pl
+1528  cp homeworkFormKaishiaIeraci.pl 1.pl
+1529  nano 1.pl
+1530  perl 1.pl
+1531  rm 1.pl
+1532  ls
+
+What will the command !1528 do?
+	a.	Remove command #1528 from the history
+	b.	Copy cp homeworkFormKaishiaIeraci.pl to terminal
+	c.	Run cp homeworkFormKaishiaIeraci.pl 1.pl
+	d.	Print 1528 to the terminal
+
+vpvw
+
+hi
+this is a presentation.
+
+Have a good week!
+
+no
+What does the regular expression quantifier * represent?
+A. Matches zero or more times 
+B. Matches one or more times
+C. Matches exactly zero characters
+D. Negates previous string sequence
+What is the difference between "ls" and "ls -a"?
+
+a) Nothing
+b) "ls" shows files in a directory and "ls -a" compares files in two different directories
+**c) "ls" shows all visible files in a directory, and "ls -a" shows all visible and invisible files in a directory
+d) "ls -a" displays the files at the root directory
